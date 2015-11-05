@@ -1,20 +1,20 @@
 import _random
 import tweepy
 import tweepy,random,time
-from keys import keys 
+from keysSquall import keysSquall
 from datetime import datetime,timedelta
 from random import randint
 
 class TwitterAPI(object):
     def __init__(self):
-        consumer_key = keys['consumer_key']
-        consumer_secret = keys['consumer_secret']
+        consumer_key = keysSquall['consumer_key']
+        consumer_secret = keysSquall['consumer_secret']
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-        access_token = keys['access_token']
-        access_token_secret = keys['access_token_secret']
+        access_token = keysSquall['access_token']
+        access_token_secret = keysSquall['access_token_secret']
         auth.set_access_token(access_token, access_token_secret)
         self.api = tweepy.API(auth)
-	self.twitterQuotesList = open('twitterquotes.txt', 'r')
+	self.twitterQuotesList = open('squallquotes.txt', 'r')
 	self.tql = self.twitterQuotesList.readlines()
 	self.twitterQuotesList.close()
     def tweet(self):
@@ -28,7 +28,7 @@ class TwitterAPI(object):
 				message = self.tql[randint(0,len(self.tql)-1)] 
 				m = "@{0}, {1} {2}".format(sn, message,trend_hashtag) 
 				s = self.api.update_status(status=m, in_reply_to_status_id = tweet.id)
-				TimeToSleep = randint(3600,4000)
+				TimeToSleep = randint(1500,3000)
 				time.sleep(TimeToSleep)
 		#for self.quote in self.twitterQuotesList:
 			#self.api.update_status(status=self.quote)
