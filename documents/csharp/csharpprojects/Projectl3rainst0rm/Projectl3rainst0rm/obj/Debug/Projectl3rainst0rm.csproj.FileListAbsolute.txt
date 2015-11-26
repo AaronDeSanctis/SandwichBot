@@ -1,0 +1,121 @@
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Projectl3rainst0rm.dll.config
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Projectl3rainst0rm.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Projectl3rainst0rm.pdb
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Antlr3.Runtime.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.SqlServer.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Newtonsoft.Json.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Owin.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Net.Http.Formatting.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Helpers.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.WebHost.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Mvc.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Optimization.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Razor.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\WebGrease.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Helpers.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Mvc.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Optimization.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Razor.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Antlr3.Runtime.pdb
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Newtonsoft.Json.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Net.Http.Formatting.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.WebHost.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.SqlServer.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\obj\Debug\Projectl3rainst0rm.dll
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\Projectl3rainst0rm\Projectl3rainst0rm\obj\Debug\Projectl3rainst0rm.pdb
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Projectl3rainst0rm.dll.config
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Projectl3rainst0rm.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Projectl3rainst0rm.pdb
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Antlr3.Runtime.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.SqlServer.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Newtonsoft.Json.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Owin.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Net.Http.Formatting.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Helpers.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.WebHost.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Mvc.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Optimization.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Razor.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\WebGrease.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Helpers.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Mvc.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Optimization.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Razor.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Antlr3.Runtime.pdb
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Newtonsoft.Json.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Net.Http.Formatting.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\System.Web.Http.WebHost.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\EntityFramework.SqlServer.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\obj\Debug\Projectl3rainst0rm.csprojResolveAssemblyReference.cache
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\obj\Debug\Projectl3rainst0rm.dll
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\Projectl3rainst0rm\Projectl3rainst0rm\obj\Debug\Projectl3rainst0rm.pdb

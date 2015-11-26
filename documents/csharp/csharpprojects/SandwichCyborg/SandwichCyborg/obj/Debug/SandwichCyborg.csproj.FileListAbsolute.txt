@@ -1,0 +1,13 @@
+C:\Users\ADeSanctis_be\Documents\Visual Studio 2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.exe.config
+C:\Users\ADeSanctis_be\Documents\VisualStudio2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.exe.config
+C:\Users\ADeSanctis_be\Documents\VisualStudio2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.exe
+C:\Users\ADeSanctis_be\Documents\VisualStudio2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.pdb
+C:\Users\ADeSanctis_be\Documents\VisualStudio2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\obj\Debug\SandwichCyborg.exe
+C:\Users\ADeSanctis_be\Documents\VisualStudio2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\obj\Debug\SandwichCyborg.pdb
+C:\Users\ADeSanctis_be\Documents\VisualStudio2013\Projects\SandwichCyborg\SandwichCyborg\SandwichCyborg\obj\Debug\SandwichCyborg.csprojResolveAssemblyReference.cache
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.exe.config
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\SandwichCyborg\SandwichCyborg\obj\Debug\SandwichCyborg.csprojResolveAssemblyReference.cache
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.exe
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\SandwichCyborg\SandwichCyborg\bin\Debug\SandwichCyborg.pdb
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\SandwichCyborg\SandwichCyborg\obj\Debug\SandwichCyborg.exe
+C:\Users\ADeSanctis_be\Documents\CSharp\CSharpProjects\SandwichCyborg\SandwichCyborg\obj\Debug\SandwichCyborg.pdb
